@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 20 19:47:02 2021
 
-@author: ADMIN
-"""
 
 import tkinter
 import tkinter as tk
